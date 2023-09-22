@@ -1,0 +1,65 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\UPC\\Ciclo 9\\Netlify\\Cross-Link-Landing-Page-2\\LandingPageCrossLink\\wwwroot\\brand-logo.png",
+      "PackagePath": "staticwebassets\\brand-logo.png"
+    },
+    {
+      "Id": "D:\\UPC\\Ciclo 9\\Netlify\\Cross-Link-Landing-Page-2\\LandingPageCrossLink\\wwwroot\\css\\blazor-ui.css",
+      "PackagePath": "staticwebassets\\css\\blazor-ui.css"
+    },
+    {
+      "Id": "D:\\UPC\\Ciclo 9\\Netlify\\Cross-Link-Landing-Page-2\\LandingPageCrossLink\\wwwroot\\css\\material\\material.css",
+      "PackagePath": "staticwebassets\\css\\material\\material.css"
+    },
+    {
+      "Id": "D:\\UPC\\Ciclo 9\\Netlify\\Cross-Link-Landing-Page-2\\LandingPageCrossLink\\wwwroot\\css\\material\\material.css.map",
+      "PackagePath": "staticwebassets\\css\\material\\material.css.map"
+    },
+    {
+      "Id": "D:\\UPC\\Ciclo 9\\Netlify\\Cross-Link-Landing-Page-2\\LandingPageCrossLink\\wwwroot\\css\\material\\material.min.css",
+      "PackagePath": "staticwebassets\\css\\material\\material.min.css"
+    },
+    {
+      "Id": "D:\\UPC\\Ciclo 9\\Netlify\\Cross-Link-Landing-Page-2\\LandingPageCrossLink\\wwwroot\\css\\material\\material.min.css.map",
+      "PackagePath": "staticwebassets\\css\\material\\material.min.css.map"
+    },
+    {
+      "Id": "D:\\UPC\\Ciclo 9\\Netlify\\Cross-Link-Landing-Page-2\\LandingPageCrossLink\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\UPC\\Ciclo 9\\Netlify\\Cross-Link-Landing-Page-2\\LandingPageCrossLink\\wwwroot\\js\\material\\material.js",
+      "PackagePath": "staticwebassets\\js\\material\\material.js"
+    },
+    {
+      "Id": "D:\\UPC\\Ciclo 9\\Netlify\\Cross-Link-Landing-Page-2\\LandingPageCrossLink\\wwwroot\\js\\material\\material.js.map",
+      "PackagePath": "staticwebassets\\js\\material\\material.js.map"
+    },
+    {
+      "Id": "D:\\UPC\\Ciclo 9\\Netlify\\Cross-Link-Landing-Page-2\\LandingPageCrossLink\\wwwroot\\js\\material\\material.min.js",
+      "PackagePath": "staticwebassets\\js\\material\\material.min.js"
+    },
+    {
+      "Id": "D:\\UPC\\Ciclo 9\\Netlify\\Cross-Link-Landing-Page-2\\LandingPageCrossLink\\wwwroot\\js\\material\\material.min.js.map",
+      "PackagePath": "staticwebassets\\js\\material\\material.min.js.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.LandingPageCrossLink.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.LandingPageCrossLink.props",
+      "PackagePath": "build\\LandingPageCrossLink.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.LandingPageCrossLink.props",
+      "PackagePath": "buildMultiTargeting\\LandingPageCrossLink.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.LandingPageCrossLink.props",
+      "PackagePath": "buildTransitive\\LandingPageCrossLink.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
