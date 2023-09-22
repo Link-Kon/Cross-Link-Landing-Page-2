@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "uJ5CXodsqq9ZhvRu436w+4wdZB/vp8Rjhwh/9ikPAyWNRabNzsnu45MNHjrJg8ajAkYDs8ZyjCciQ7thLIUWDA==",
+  "success": true,
+  "projectFilePath": "D:\\UPC\\Ciclo 9\\Netlify\\Cross-Link-Landing-Page-2\\CrossLinkLandingPage\\CrossLinkLandingPage\\CrossLinkLandingPage\\CrossLinkLandingPage.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Diego\\.nuget\\packages\\blazorise\\1.1.7\\blazorise.1.1.7.nupkg.sha512",
+    "C:\\Users\\Diego\\.nuget\\packages\\blazorise.bootstrap\\1.1.7\\blazorise.bootstrap.1.1.7.nupkg.sha512",
+    "C:\\Users\\Diego\\.nuget\\packages\\blazorise.icons.material\\1.1.7\\blazorise.icons.material.1.1.7.nupkg.sha512",
+    "C:\\Users\\Diego\\.nuget\\packages\\blazorise.material\\1.1.7\\blazorise.material.1.1.7.nupkg.sha512",
+    "C:\\Users\\Diego\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.9\\microsoft.aspnetcore.authorization.6.0.9.nupkg.sha512",
+    "C:\\Users\\Diego\\.nuget\\packages\\microsoft.aspnetcore.components\\6.0.9\\microsoft.aspnetcore.components.6.0.9.nupkg.sha512",
+    "C:\\Users\\Diego\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\6.0.9\\microsoft.aspnetcore.components.analyzers.6.0.9.nupkg.sha512",
+    "C:\\Users\\Diego\\.nuget\\packages\\microsoft.aspnetcore.components.forms\\6.0.9\\microsoft.aspnetcore.components.forms.6.0.9.nupkg.sha512",
+    "C:\\Users\\Diego\\.nuget\\packages\\microsoft.aspnetcore.components.web\\6.0.9\\microsoft.aspnetcore.components.web.6.0.9.nupkg.sha512",
+    "C:\\Users\\Diego\\.nuget\\packages\\microsoft.aspnetcore.metadata\\6.0.9\\microsoft.aspnetcore.metadata.6.0.9.nupkg.sha512",
+    "C:\\Users\\Diego\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+    "C:\\Users\\Diego\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Diego\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.3\\microsoft.extensions.logging.abstractions.6.0.3.nupkg.sha512",
+    "C:\\Users\\Diego\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\Diego\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\Diego\\.nuget\\packages\\microsoft.jsinterop\\6.0.9\\microsoft.jsinterop.6.0.9.nupkg.sha512",
+    "C:\\Users\\Diego\\.nuget\\packages\\system.io.pipelines\\6.0.3\\system.io.pipelines.6.0.3.nupkg.sha512",
+    "C:\\Users\\Diego\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
